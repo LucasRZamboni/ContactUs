@@ -1,0 +1,16 @@
+@media screen and (max-width: 280px) {
+  .container .top h2 {
+    font-size: 2rem;
+  }
+}
+@media screen and (max-height: 600px) {
+  .container .top{
+    height: 20%;
+  }
+  .container .middle{
+    height: 60%;
+  }
+  .container .bottom {
+    height: 20%;
+  }
+}
